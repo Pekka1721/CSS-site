@@ -98,3 +98,22 @@ div{
     color:white;
     font-weight: bold;
 }
+
+.projects{
+    width: 50%;
+    margin: 150px auto;
+}
+.tindog{
+    margin-top: 20px;
+    float: left;
+    width: 50%;
+    padding-right: 60px;
+    line-height: 2;
+    
+}
+#projectname{
+    margin: 31px;
+}
+.projects .dpxn{
+    margin: 50px;
+}
